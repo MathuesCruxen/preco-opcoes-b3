@@ -1,0 +1,5 @@
+matplotlib
+numpy
+requests
+yfinance
+python-bcb
