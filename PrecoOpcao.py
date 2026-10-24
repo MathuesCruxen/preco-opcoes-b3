@@ -175,6 +175,6 @@ def graficoPuts(acao, vencimento, passos, faixa=0.15):
 
 
 if __name__ == "__main__":
-    graficoCalls("PETR4", "18/12/2026", passos=1000)
-    graficoCalls("BBAS3", "18/12/2026", passos=100)
-    graficoCalls("VALE3", "18/12/2026", passos=100)
+    graficoCalls("PETR4", "18/12/2026", passos=500)
+    graficoCalls("BBAS3", "18/12/2026", passos=500)
+    graficoCalls("VALE3", "18/12/2026", passos=500)
